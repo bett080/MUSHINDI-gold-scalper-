@@ -1,0 +1,10 @@
+{
+  "name": "MUSHINDI GOLD SCALPER",
+  "short_name": "MUSHINDI GOLD",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#0b1220",
+  "theme_color": "#101827",
+  "description": "XAUUSD trading planner and demo simulator",
+  "icons": []
+}
